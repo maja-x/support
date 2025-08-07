@@ -16,7 +16,7 @@ Gunakan Link berikut untuk menambahkan Laporan:
 Track / Lihat laporan di:
 [https://github.com/maja-x/support/issues](https://github.com/maja-x/support/issues/new)
 
-
+---
 
 Kami sangat berterima kasih atas laporan dan saran / kritik yang Anda sampaikan.
 
